@@ -17,7 +17,9 @@ namespace Test
         public Form1()
         {
             InitializeComponent();
-            LoadAvailableAssemblies();
+            //LoadAvailableAssemblies();
+
+            
 
             //comboBox1.Text = comboBox1.Items[0].ToString();
             //this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);

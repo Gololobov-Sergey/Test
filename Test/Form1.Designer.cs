@@ -106,8 +106,16 @@ namespace Test
             // AvailableAssemblies
             // 
             this.AvailableAssemblies.FormattingEnabled = true;
+            this.AvailableAssemblies.Items.AddRange(new object[] {
+            "1",
+            "2",
+            "3",
+            "43",
+            "4",
+            "566"});
             this.AvailableAssemblies.Location = new System.Drawing.Point(365, 42);
             this.AvailableAssemblies.Name = "AvailableAssemblies";
+            this.AvailableAssemblies.SelectionMode = System.Windows.Forms.SelectionMode.MultiExtended;
             this.AvailableAssemblies.Size = new System.Drawing.Size(193, 303);
             this.AvailableAssemblies.TabIndex = 7;
             // 
