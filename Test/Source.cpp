@@ -13,5 +13,5 @@ int main()
 
 void fff()
 {
-
+	std::cout << "FFF" << std::endl;
 }
