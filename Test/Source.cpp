@@ -5,6 +5,13 @@
 
 void fff();
 
+
+void fff999_Home()
+{
+	std::cout << "fff999_Home" << std::endl;
+}
+
+
 void fff999()
 {
 	std::cout << "fff999" << std::endl;
