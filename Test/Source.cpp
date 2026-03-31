@@ -12,7 +12,7 @@ void fff999()
 
 void fff999_1()
 {
-	std::cout << "fff999_1" << std::endl;
+	std::cout << "fff999_1XXXXXXXX" << std::endl;
 }
 
 int main()
