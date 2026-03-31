@@ -10,9 +10,15 @@ void fff999()
 	std::cout << "fff999" << std::endl;
 }
 
+void fff999_333()
+{
+	std::cout << "fff999_333" << std::endl;
+}
+
+
 void fff999_1()
 {
-	std::cout << "fff999_1XXXXXXXXX" << std::endl;
+	std::cout << "fff999_1YYYYYYY" << std::endl;
 }
 
 int main()
