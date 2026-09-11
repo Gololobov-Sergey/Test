@@ -5,6 +5,7 @@
 
 #include <iostream>
 
+
 void func1()
 {
 	std::cout << "Func1\n";
@@ -13,6 +14,11 @@ void func1()
 void func2()
 {
 	std::cout << "Func2\n";
+}
+
+void func3()
+{
+	std::cout << "Func3\n";
 }
 
 
