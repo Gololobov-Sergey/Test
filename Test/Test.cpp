@@ -36,6 +36,11 @@ void func6()
 	std::cout << "Func6\n";
 }
 
+void func7()
+{
+	std::cout << "Func7\n";
+}
+
 
 int main()
 {
