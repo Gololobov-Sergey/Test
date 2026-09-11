@@ -13,7 +13,7 @@ void func1()
 
 void func2()
 {
-	std::cout << "Func2\n";
+	std::cout << "Func22\n";
 }
 
 void func3()
