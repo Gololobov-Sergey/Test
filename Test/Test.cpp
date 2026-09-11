@@ -10,6 +10,12 @@ void func1()
 	std::cout << "Func1\n";
 }
 
+void func2()
+{
+	std::cout << "Func2\n";
+}
+
+
 int main()
 {
     std::cout << "Hello World!\n";
